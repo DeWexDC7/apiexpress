@@ -1,4 +1,3 @@
-//Define los controladores para manejar 
 import { readData, writeData } from '../models/libroModel.js';
 
 const getLibros = (req, res) => {
