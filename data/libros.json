@@ -1,0 +1,26 @@
+
+{
+  "libros": [
+    {
+      "id": 1,
+      "titulo": "El Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "genero": "Fantasía",
+      "precio": 15.99
+    },
+    {
+      "id": 2,
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "genero": "Realismo mágico",
+      "precio": 12.99
+    },
+    {
+      "id": 3,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "genero": "Distopía",
+      "precio": 10.99
+    }
+  ]
+}
