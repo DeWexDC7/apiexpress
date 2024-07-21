@@ -1,9 +1,8 @@
-
 {
   "libros": [
     {
       "id": 1,
-      "titulo": "El Hobbit",
+      "titulo": "El hobbit",
       "autor": "J.R.R. Tolkien",
       "genero": "Fantasía",
       "precio": 15.99
